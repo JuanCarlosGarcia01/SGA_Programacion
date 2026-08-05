@@ -12,5 +12,14 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^5.2.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanCarlosGarcia01/SGA_Programacion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JuanCarlosGarcia01/SGA_Programacion/issues"
+  },
+  "homepage": "https://github.com/JuanCarlosGarcia01/SGA_Programacion#readme"
 }
